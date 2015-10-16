@@ -20,7 +20,9 @@ python setup.py install
 ```
 
 ## Install blender script
-To install blender script simply zip the 'voxel_export' script and using blender menu install it like normal addon.
+To install blender script simply zip the 'voxel_export' folder.
+
+Using blender menu install it like normal addon.
 
 ## Use it!
 If all went fine you should have new export option available.
