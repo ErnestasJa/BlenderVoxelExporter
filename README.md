@@ -1,7 +1,10 @@
 # BlenderVoxelExporter
 Triangle mesh voxelizator, export script.
 
-# Usage (Might be only this easy on linux, windows/osx machines not tested)
+# Usage
+### Note: 
+These steps might only work on linux, windows/osx machines not tested.
+I suggest using blender version 2.7.x
 ## Build and install python c++ extension
 The extension is the core of voxelizer. It gets all the required data from blender and does the voxelization, file output.
 
